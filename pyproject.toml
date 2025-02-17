@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "news-parser-bot"
+version = "0.1.0"
+description = "News parser bot"
+authors = ["Влад"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
