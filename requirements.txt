@@ -1,3 +1,6 @@
 requests
 beautifulsoup4
-pyTelegramBotAPI==4.26.0
+python-dotenv
+pyTelegramBotAPI
+gspread
+oauth2client
