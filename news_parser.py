@@ -51,5 +51,4 @@ def send_news_to_telegram():
     print("Новости отправлены в Telegram.")
 
 # Запуск
-if __name__ == "__main__":
-    send_news_to_telegram()
+send_news_to_telegram()
