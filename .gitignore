@@ -1,2 +1,6 @@
 .env
 groovy-cider-451019-e4-0604311cc0f8.json
+__pycache__/
+*.py[cod]
+drafts.sqlite3
+drafts.sqlite3-*
